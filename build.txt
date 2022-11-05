@@ -1,0 +1,3 @@
+displayName = Weapons With Progression
+author = Zeal
+version = 0.1
